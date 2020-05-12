@@ -1,12 +1,10 @@
 esta es una primera prueba
 
-<<<<<<< HEAD
 aca esta la segunda prueba
 
 ac esta la tercera prueba
 =======
 
->>>>>>> f5cc27acbcd2e7912381c88da9c223d6b1a698ee
-
+aca esta la cuarta prueba
 
 
